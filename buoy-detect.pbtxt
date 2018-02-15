@@ -1,0 +1,16 @@
+item {
+  id: 1
+  name: 'red_buoy'
+}
+item {
+  id: 2
+  name: 'red_buoy_reflect'
+}
+item {
+  id: 3
+  name: 'yellow_buoy'
+}
+item {
+  id: 4
+  name: 'yellow_buoy_reflect'
+}
